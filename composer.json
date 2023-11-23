@@ -1,0 +1,8 @@
+{
+	"name": "qala/qala",
+	"description": "The Qala project is a WordPress based solution for websites and ecommerce.",
+	"homepage": "https://angrycreative.com/",
+	"require": {
+			"php": ">=7.4"
+	}
+}
