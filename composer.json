@@ -2,6 +2,7 @@
 	"name": "qala/qala",
 	"description": "The Qala project is a WordPress based solution for websites and ecommerce.",
 	"homepage": "https://angrycreative.com/",
+	"licence": "proprietary",
 	"require": {
 			"php": ">=7.4"
 	}
